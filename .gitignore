@@ -1,0 +1,5 @@
+*.o
+pb_orig
+pb_opt
+pb_opt2
+pb_hash
